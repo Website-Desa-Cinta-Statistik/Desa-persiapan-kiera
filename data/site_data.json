@@ -44,50 +44,50 @@
     "belanja": []
   },
   "statistik": {
-    "total_penduduk": 4825,
-    "total_keluarga": 1240,
+    "total_penduduk": 628,
+    "total_keluarga": 174,
     "jenis_kelamin": {
-      "Laki-laki": 2450,
-      "Perempuan": 2375
+      "Laki-laki": 311,
+      "Perempuan": 317
     },
     "pekerjaan": {
-      "PNS / TNI / Polri": 520,
-      "Pegawai Swasta / BUMN": 680,
-      "Petani / Peternak": 1250,
-      "Nelayan": 840,
-      "Pedagang / Wiraswasta": 415,
-      "Belum / Tidak Bekerja": 1120
+      "PNS / TNI / Polri": 0,
+      "Pegawai Swasta / BUMN": 0,
+      "Petani / Peternak": 0,
+      "Nelayan": 0,
+      "Pedagang / Wiraswasta": 0,
+      "Belum / Tidak Bekerja": 0
     },
     "agama": {
-      "Kristen Protestan": 3650,
-      "Katolik": 680,
-      "Islam": 450,
-      "Hindu": 30,
-      "Buddha": 15
+      "Kristen Protestan": 0,
+      "Katolik": 0,
+      "Islam": 0,
+      "Hindu": 0,
+      "Buddha": 0
     },
     "status_perkawinan": {
-      "Belum Kawin": 1980,
-      "Kawin": 2560,
-      "Cerai Hidup": 185,
-      "Cerai Mati": 100
+      "Belum Kawin": 0,
+      "Kawin": 0,
+      "Cerai Hidup": 0,
+      "Cerai Mati": 0
     },
     "fasilitas_pendidikan": {
-      "Taman Kanak-Kanak (TK)": 4,
-      "Sekolah Dasar (SD)": 6,
-      "Sekolah Menengah Pertama (SMP)": 3,
-      "Sekolah Menengah Atas (SMA)": 2,
-      "Perguruan Tinggi": 1
+      "Taman Kanak-Kanak (TK)": 0,
+      "Sekolah Dasar (SD)": 0,
+      "Sekolah Menengah Pertama (SMP)": 0,
+      "Sekolah Menengah Atas (SMA)": 0,
+      "Perguruan Tinggi": 0
     },
     "fasilitas_kesehatan": {
-      "Rumah Sakit": 1,
-      "Puskesmas": 1,
-      "Puskesmas Pembantu (Pustu)": 3,
-      "Poliklinik": 1,
-      "Poskesdes": 2,
-      "Polindes": 1,
-      "Tempat Praktik Dokter": 2,
-      "Tempat Praktik Bidan": 4,
-      "Apotek": 3
+      "Rumah Sakit": 0,
+      "Puskesmas": 0,
+      "Puskesmas Pembantu (Pustu)": 0,
+      "Poliklinik": 0,
+      "Poskesdes": 0,
+      "Polindes": 0,
+      "Tempat Praktik Dokter": 0,
+      "Tempat Praktik Bidan": 0,
+      "Apotek": 0
     }
   }
 }
