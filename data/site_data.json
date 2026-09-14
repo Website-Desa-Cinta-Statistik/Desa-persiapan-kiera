@@ -3,11 +3,11 @@
     "code_hash": "f1cd356cd58776dbecddaff28278b5df3ad2a90ac37759f696f9d5e6699cd082"
   },
   "profil": {
-    "sejarah": "Desa Persiapan Kiera adalah sebuah desa yang tengah dalam proses pembentukan dan pengembangan, dengan tekad kuat membangun masyarakat yang sejahtera, berkeadilan, dan berwawasan ke depan.",
-    "visi": "Terwujudnya Desa Persiapan Kiera sebagai pusat pelayanan publik yang prima, mandiri, unggul, dan berbudaya berbasis potensi lokal demi kesejahteraan masyarakat yang berkeadilan.",
+    "sejarah": "Kelurahan Tiakur merupakan pusat administrasi dan ibukota dari Kabupaten Maluku Barat Daya, Provinsi Maluku. Resmi ditetapkan sebagai ibukota berdasarkan Undang-Undang Republik Indonesia Nomor 31 Tahun 2008, Tiakur berkembang pesat menjadi pusat roda pemerintahan, perekonomian, dan kebudayaan di wilayah perbatasan selatan Indonesia. Terletak di Pulau Moa, Kelurahan Tiakur menyajikan keindahan alam sabana yang khas dipadukan dengan pesisir pantai berpasir putih. Semangat kekeluargaan dan persaudaraan masyarakat Tiakur disatukan dalam falsafah hidup adat 'Kalwedo' yang menjunjung tinggi toleransi, kebersamaan, dan perdamaian..",
+    "visi": "Terwujudnya Kelurahan Tiakur sebagai pusat pelayanan publik yang prima, mandiri, unggul, dan berbudaya berbasis potensi lokal demi kesejahteraan masyarakat yang berkeadilan.",
     "misi": [
-      "Meningkatkan kualitas pelayanan administrasi desa secara cepat, akurat, transparan, dan berbasis teknologi informasi.",
-      "Mengembangkan ekonomi kreatif dan memberdayakan masyarakat desa berbasis potensi kelautan, pertanian sabana, dan perdagangan lokal.",
+      "Meningkatkan kualitas pelayanan administrasi kelurahan secara cepat, akurat, transparan, dan berbasis teknologi informasi.",
+      "Mengembangkan ekonomi kreatif dan memberdayakan masyarakat kelurahan berbasis potensi kelautan, pertanian sabana, dan perdagangan lokal.",
       "Membangun infrastruktur sarana dan prasarana lingkungan pemukiman yang sehat, tertata, dan ramah lingkungan.",
       "Memelihara nilai-nilai adat, budaya, dan kerukunan beragama masyarakat dalam bingkai persaudaraan 'Kalwedo'."
     ]
@@ -15,27 +15,27 @@
   "aparatur": [
     {
       "id": 1,
-      "nama": "Ronal Marcus, S.STP",
-      "jabatan": "Kepala Desa Persiapan Kiera",
-      "avatar_color": "#1b4332"
+      "nama": "MAXIMILIAAN K. TALUPOOR, S.IP",
+      "jabatan": "LURAH TIAKUR",
+      "avatar_color": "#005f73"
     },
     {
       "id": 2,
-      "nama": "Helena Frans, S.Sos",
-      "jabatan": "Sekretaris Desa Persiapan Kiera",
-      "avatar_color": "#2d6a4f"
+      "nama": "NOVA KATIPANA, S.AK.",
+      "jabatan": "KEPALA SEKSI EKONOMI DAN PEMBANGUNAN",
+      "avatar_color": "#0077b6"
     },
     {
       "id": 3,
-      "nama": "Jhonny Letelay, A.Md",
-      "jabatan": "Kasi Pemerintahan & Ketertiban Umum",
-      "avatar_color": "#40916c"
+      "nama": "ARCAGERTYEN O. ENUS, S.AP.",
+      "jabatan": "KEPALA SEKSI KESEJAHTERAAN SOSIAL",
+      "avatar_color": "#0a9396"
     },
     {
       "id": 4,
-      "nama": "Maria O. Keliwulan, S.E",
-      "jabatan": "Kasi Kesejahteraan Rakyat & Pelayanan",
-      "avatar_color": "#52b788"
+      "nama": "HENDRIK WURKOSI JAUPLY, S.IP.",
+      "jabatan": "PENGELOLA ADIMINISTRASI PEMERINTAHAN",
+      "avatar_color": "#f4a261"
     }
   ],
   "transparansi_anggaran": {
@@ -87,7 +87,7 @@
       "Polindes": 0,
       "Tempat Praktik Dokter": 0,
       "Tempat Praktik Bidan": 0,
-      "Apotek": 1
+      "Apotek": 0
     }
   }
 }
